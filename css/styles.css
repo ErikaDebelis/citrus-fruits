@@ -1,0 +1,43 @@
+#lemon-showing {
+  display: none;
+}
+
+#orange-showing {
+  display: none;
+}
+
+#clickable-lemon {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#clickable-lemon:hover {
+  text-decoration: underline;
+}
+
+#clickable-orange {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#clickable-orange:hover {
+  text-decoration: underline;
+}
+
+#clickable-lemon2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#clickable-lemon2:hover {
+  text-decoration: underline;
+}
+
+#clickable-orange2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#clickable-orange2:hover {
+  text-decoration: underline;
+}
